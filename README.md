@@ -1,2 +1,2 @@
 # gbc-comp3095
-Bu üç parça, tipik bir Java Spring Boot uygulamasının temelini, test altyapısını ve bağımsız bir geliştirme/derleme ortamı sağlayan proje yapılandırmasını gösterir. Öğrenme amacıyla yapılmış bir başlangıçtır.
+These three parts show the foundation of a typical Java Spring Boot application, the test infrastructure, and the project configuration that provides a self-contained development/build environment. This is a starting step for learning.
